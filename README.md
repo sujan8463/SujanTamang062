@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujan Tamang</h1>
-<h3 align="center">Exploring the world of Full-Stack Web Development</h3>
+<h3 align="center">Diving deep into the Tech Universe 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sujan8463&label=Profile%20views&color=0e75b6&style=flat" alt="sujan8463" />
