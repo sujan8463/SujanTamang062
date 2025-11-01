@@ -17,7 +17,7 @@ Building **modern full-stack web applications** using **React**, **Django**, and
 - Authentication, CRUD operations, and API integration
 
 ### 📫 How to Reach Me  
-**nothingnothingnot12345hing@gmail.com**
+**sujanprogrammer@gmail.com**
 
 ---
 
